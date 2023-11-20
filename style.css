@@ -61,4 +61,7 @@
   .clear {
     margin-left: 105px;
   }
+  .boxCalc {
+    padding: 0 10px;
+  }
 }
