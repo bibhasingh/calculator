@@ -55,4 +55,10 @@
   .container {
     width: 300px;
   }
+  .boxcontainer {
+    margin-left: 10px;
+  }
+  .clear {
+    margin-left: 105px;
+  }
 }
