@@ -50,3 +50,9 @@
   font-size: large;
   background-color: rgb(212, 255, 127);
 }
+
+@media only screen and (max-width: 1000px) {
+  .container {
+    width: 300px;
+  }
+}
